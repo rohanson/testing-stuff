@@ -1,0 +1,2 @@
+Let's copy this file to a /bin folder.
+
